@@ -2,6 +2,17 @@
 
 > Custom Sublime Text 3 HTML syntax definition. 
 
+
+### Install
+Go to your sublime text packages folder and run:
+
+    git clone https://github.com/ionutvmi/sublime-html.git 'HTML'
+
+You can find the packages folder under Preferences -> Browser Packages
+
+
+---------
+
 List of changes from the default package:
 
 **Added support for underscore/handlebars script templates**
